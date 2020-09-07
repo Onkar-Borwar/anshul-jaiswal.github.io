@@ -1093,7 +1093,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
       bottom: 2.5rem;
       margin-top: 0;
       top: auto;
-      z-index: 17; } }
+      z-index: 29; } }
 
 .mbr-gallery .mbr-slider .carousel-inner > .active {
   display: block; }
